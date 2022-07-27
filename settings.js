@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Kaveen Chamodya']
+global.owner = ['Malitha Sadakalum']
 
-global.premium = ['💗King Kaveen🧚']
+global.premium = ['Malitha Sadakalum']
 
-global.ownernomer = '94761544363'
+global.ownernomer = '94765258090'
 
-global.ownername = 'Kaveen Chamodya'
+global.ownername = 'Malitha Sadakalum'
 
-global.botname = '💗King Kaveen🧚'
+global.botname = 'Malith bot'
 
-global.footer = '©💗King Kaveen🧚.'
+global.footer = 'malitha sadakalum .'
 
-global.ig = 'https://github.com/Kaveen203'
+global.ig = 'malitha sadakalum '
 
-global.region = 'Sri Lanka, Colombo, 7'
+global.region = 'Sri Lanka'
 
-global.sc = 'https://github.com/Kaveen203'
+global.sc = 'malitha sadakalum '
 
-global.myweb = 'https://www.youtube.com/channel/UCU88G-7LfQ3nJjSa9gLPL_w'
+global.myweb = 'malitha sadakalum '
 
-global.packname = '💗King Kaveen🧚'
+global.packname = 'malith bot '
 
-global.author = '💗King Kaveen🧚'
+global.author = 'malith bot '
 
 global.sessionName = 'session'
 
